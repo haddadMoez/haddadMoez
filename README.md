@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @haddadMoez
 - 👀 I’m interested in algorithms and solving problems
 - 🌱 I’m currently learning dynamic programming and solving geeksforgeeks challenges
+- 🌱 I’m currently learning GraphQL
 - 📫 How to reach me (LinkedIn ==> in/moezhaddad/ ) 
 
 <!---
